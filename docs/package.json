@@ -1,0 +1,19 @@
+{
+  "name": "dakotaVueProject",
+  "version": "0.0.1",
+  "description": "challenge 1 problem",
+  "main": "index.js",
+  "authors": {
+    "name": "Dakota",
+    "email": "hurlbu19@msu.edu"
+  },
+  "repository": "https://github.com/dHurlburt22/Dakotavuepress.git/dakotaVueProject",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
